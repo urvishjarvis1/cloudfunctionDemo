@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CloudFunctionDemo</string>
+    <string name="login">Login</string>
+    <string name="subscribe">subscribe</string>
+    <string name="logout">Log out</string>
+</resources>
